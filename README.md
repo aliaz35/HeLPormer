@@ -1,3 +1,3 @@
 # HeLPormer: Heterogeneous Graph Transformer for Link Prediction
 
-This is the offcial repository of HeLPormer.
+This is the official repository of HeLPormer.
